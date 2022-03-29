@@ -30,5 +30,5 @@ Branch list as below:
 ```bash
 rm -rf **/package-lock.json
 npm i --ws
-mpm init -w ./packages/[project name]
+npm init -w ./packages/[project name]
 ```
