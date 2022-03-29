@@ -15,9 +15,9 @@ git clone --depth=1 git@github.com:StoneRen/nodejs-package-template.git
 ## Branch
 
 ```bash
-npx degit github:StoneRen/nodejs-package-template#[brach]
-
-git clone -b [brach] git@github.com:StoneRen/nodejs-package-template.git
+npx degit github:StoneRen/nodejs-package-template#[branch]
+# or
+git clone -b [branch] git@github.com:StoneRen/nodejs-package-template.git
 ```
 
 Branch list as below:
