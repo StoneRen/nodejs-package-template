@@ -24,3 +24,11 @@ Branch list as below:
 
 - vite
 - vite_tailwind
+
+## prepare
+
+```bash
+rm -rf **/package-lock.json
+npm i --ws
+npm init -w ./packages/[project name]
+```
